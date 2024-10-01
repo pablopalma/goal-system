@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AyiGroup\\Desktop\\Proyectos\\Goal System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D72B2586-351E-E2DF-A990-9E23640DED8C}|Assembly-CSharp.csproj|c:\\users\\ayigroup\\desktop\\proyectos\\goal system\\assets\\code\\goalsystem\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72B2586-351E-E2DF-A990-9E23640DED8C}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\goalsystem\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72B2586-351E-E2DF-A990-9E23640DED8C}|Assembly-CSharp.csproj|c:\\users\\ayigroup\\desktop\\proyectos\\goal system\\assets\\code\\levelssystem\\levelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72B2586-351E-E2DF-A990-9E23640DED8C}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\levelssystem\\levelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72B2586-351E-E2DF-A990-9E23640DED8C}|Assembly-CSharp.csproj|c:\\users\\ayigroup\\desktop\\proyectos\\goal system\\assets\\code\\levelssystem\\levelpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72B2586-351E-E2DF-A990-9E23640DED8C}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\levelssystem\\levelpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72B2586-351E-E2DF-A990-9E23640DED8C}|Assembly-CSharp.csproj|c:\\users\\ayigroup\\desktop\\proyectos\\goal system\\assets\\code\\levelssystem\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72B2586-351E-E2DF-A990-9E23640DED8C}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\levelssystem\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72B2586-351E-E2DF-A990-9E23640DED8C}|Assembly-CSharp.csproj|c:\\users\\ayigroup\\desktop\\proyectos\\goal system\\assets\\code\\itemssystem\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72B2586-351E-E2DF-A990-9E23640DED8C}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\itemssystem\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72B2586-351E-E2DF-A990-9E23640DED8C}|Assembly-CSharp.csproj|C:\\Users\\AyiGroup\\Desktop\\Proyectos\\Goal System\\assets\\code\\itemssystem\\iinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72B2586-351E-E2DF-A990-9E23640DED8C}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\itemssystem\\iinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72B2586-351E-E2DF-A990-9E23640DED8C}|Assembly-CSharp.csproj|c:\\users\\ayigroup\\desktop\\proyectos\\goal system\\assets\\code\\goalsystem\\objective.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72B2586-351E-E2DF-A990-9E23640DED8C}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\goalsystem\\objective.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72B2586-351E-E2DF-A990-9E23640DED8C}|Assembly-CSharp.csproj|C:\\Users\\AyiGroup\\Desktop\\Proyectos\\Goal System\\assets\\code\\goalsystem\\keyobjectiveview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72B2586-351E-E2DF-A990-9E23640DED8C}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\goalsystem\\keyobjectiveview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72B2586-351E-E2DF-A990-9E23640DED8C}|Assembly-CSharp.csproj|c:\\users\\ayigroup\\desktop\\proyectos\\goal system\\assets\\code\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72B2586-351E-E2DF-A990-9E23640DED8C}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AyiGroup\\Desktop\\Proyectos\\Goal System\\assets\\code\\italkable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\code\\italkable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AyiGroup\\Desktop\\Proyectos\\Goal System\\assets\\code\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\code\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AyiGroup\\Desktop\\Proyectos\\Goal System\\assets\\code\\levelpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\code\\levelpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AyiGroup\\Desktop\\Proyectos\\Goal System\\assets\\code\\levelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\code\\levelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\AyiGroup\\Desktop\\Proyectos\\Goal System\\Assets\\Code\\ItemsSystem\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\ItemsSystem\\Item.cs",
+              "ToolTip": "C:\\Users\\AyiGroup\\Desktop\\Proyectos\\Goal System\\Assets\\Code\\ItemsSystem\\Item.cs",
+              "RelativeToolTip": "Assets\\Code\\ItemsSystem\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T20:05:28.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Goal.cs",
+              "DocumentMoniker": "C:\\Users\\AyiGroup\\Desktop\\Proyectos\\Goal System\\Assets\\Code\\GoalSystem\\Goal.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\GoalSystem\\Goal.cs",
+              "ToolTip": "C:\\Users\\AyiGroup\\Desktop\\Proyectos\\Goal System\\Assets\\Code\\GoalSystem\\Goal.cs",
+              "RelativeToolTip": "Assets\\Code\\GoalSystem\\Goal.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwBIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:56:17.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Objective.cs",
+              "DocumentMoniker": "C:\\Users\\AyiGroup\\Desktop\\Proyectos\\Goal System\\Assets\\Code\\GoalSystem\\Objective.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\GoalSystem\\Objective.cs",
+              "ToolTip": "C:\\Users\\AyiGroup\\Desktop\\Proyectos\\Goal System\\Assets\\Code\\GoalSystem\\Objective.cs",
+              "RelativeToolTip": "Assets\\Code\\GoalSystem\\Objective.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:55:14.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LevelPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\AyiGroup\\Desktop\\Proyectos\\Goal System\\Assets\\Code\\LevelsSystem\\LevelPresenter.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\LevelsSystem\\LevelPresenter.cs",
+              "ToolTip": "C:\\Users\\AyiGroup\\Desktop\\Proyectos\\Goal System\\Assets\\Code\\LevelsSystem\\LevelPresenter.cs",
+              "RelativeToolTip": "Assets\\Code\\LevelsSystem\\LevelPresenter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:48:56.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KeyObjectiveView.cs",
+              "DocumentMoniker": "C:\\Users\\AyiGroup\\Desktop\\Proyectos\\Goal System\\Assets\\Code\\GoalSystem\\KeyObjectiveView.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\GoalSystem\\KeyObjectiveView.cs",
+              "ToolTip": "C:\\Users\\AyiGroup\\Desktop\\Proyectos\\Goal System\\Assets\\Code\\GoalSystem\\KeyObjectiveView.cs",
+              "RelativeToolTip": "Assets\\Code\\GoalSystem\\KeyObjectiveView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:33:32.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IInteractable.cs",
+              "DocumentMoniker": "C:\\Users\\AyiGroup\\Desktop\\Proyectos\\Goal System\\Assets\\Code\\ItemsSystem\\IInteractable.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\ItemsSystem\\IInteractable.cs",
+              "ToolTip": "C:\\Users\\AyiGroup\\Desktop\\Proyectos\\Goal System\\Assets\\Code\\ItemsSystem\\IInteractable.cs",
+              "RelativeToolTip": "Assets\\Code\\ItemsSystem\\IInteractable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:33:24.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\AyiGroup\\Desktop\\Proyectos\\Goal System\\Assets\\Code\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Item.cs",
+              "ToolTip": "C:\\Users\\AyiGroup\\Desktop\\Proyectos\\Goal System\\Assets\\Code\\Item.cs",
+              "RelativeToolTip": "Assets\\Code\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:32:52.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Level.cs",
+              "DocumentMoniker": "C:\\Users\\AyiGroup\\Desktop\\Proyectos\\Goal System\\Assets\\Code\\LevelsSystem\\Level.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\LevelsSystem\\Level.cs",
+              "ToolTip": "C:\\Users\\AyiGroup\\Desktop\\Proyectos\\Goal System\\Assets\\Code\\LevelsSystem\\Level.cs",
+              "RelativeToolTip": "Assets\\Code\\LevelsSystem\\Level.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:32:39.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LevelView.cs",
+              "DocumentMoniker": "C:\\Users\\AyiGroup\\Desktop\\Proyectos\\Goal System\\Assets\\Code\\LevelsSystem\\LevelView.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\LevelsSystem\\LevelView.cs",
+              "ToolTip": "C:\\Users\\AyiGroup\\Desktop\\Proyectos\\Goal System\\Assets\\Code\\LevelsSystem\\LevelView.cs",
+              "RelativeToolTip": "Assets\\Code\\LevelsSystem\\LevelView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:51:41.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITalkable.cs",
+              "DocumentMoniker": "C:\\Users\\AyiGroup\\Desktop\\Proyectos\\Goal System\\Assets\\Code\\ITalkable.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\ITalkable.cs",
+              "ToolTip": "C:\\Users\\AyiGroup\\Desktop\\Proyectos\\Goal System\\Assets\\Code\\ITalkable.cs",
+              "RelativeToolTip": "Assets\\Code\\ITalkable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:33:01.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\AyiGroup\\Desktop\\Proyectos\\Goal System\\Assets\\Code\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Player\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\AyiGroup\\Desktop\\Proyectos\\Goal System\\Assets\\Code\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Code\\Player\\PlayerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:49:43.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LevelPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\AyiGroup\\Desktop\\Proyectos\\Goal System\\Assets\\Code\\LevelPresenter.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\LevelPresenter.cs",
+              "ToolTip": "C:\\Users\\AyiGroup\\Desktop\\Proyectos\\Goal System\\Assets\\Code\\LevelPresenter.cs",
+              "RelativeToolTip": "Assets\\Code\\LevelPresenter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:32:30.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LevelView.cs",
+              "DocumentMoniker": "C:\\Users\\AyiGroup\\Desktop\\Proyectos\\Goal System\\Assets\\Code\\LevelView.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\LevelView.cs",
+              "ToolTip": "C:\\Users\\AyiGroup\\Desktop\\Proyectos\\Goal System\\Assets\\Code\\LevelView.cs",
+              "RelativeToolTip": "Assets\\Code\\LevelView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:32:17.181Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
