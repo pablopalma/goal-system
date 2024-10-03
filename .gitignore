@@ -1,3 +1,4 @@
+# Unity
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -5,11 +6,25 @@
 [Bb]uilds/
 [Ll]ogs/
 [Uu]serSettings/
-[Dd]ocumentation~/ 
+[Dd]ocumentation~/
+[Mm]emoryCaptures/
+
+# Visual Studio
 *.csproj
 *.sln
 *.user
+*.userprefs
 *.pidb
 *.suo
-*.userprefs
 *.unityproj
+*.tlog
+*.vs/
+.vsconfig
+
+# Rider
+.idea/
+*.sln.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
